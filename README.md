@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on — Improving SafeKEY and UNIT-01 and exploring new frontend projects<br>🫂 I'm looking to collaborate on — Frontend or MERN stack projects<br>🤝 I'm looking for help with — Landing my first Frontend Developer internship<br>🌱 I'm currently learning — TypeScript and Next.js<br>💬 Ask me about — React, Tailwind CSS, MongoDB, or building with the Gemini API<br>⚡ Fun fact — I built an AI chatbot and a password manager before finishing my 3rd year of college<br><br>
+🔭 I'm currently working on — Improving SafeKEY and UNIT-01 and exploring new frontend projects<br>🫂 I'm looking to collaborate on — Frontend or MERN stack projects<br>🤝 I'm looking for help with — Landing my first Frontend Developer internship<br>🌱 I'm currently learning — TypeScript and Next.js<br>💬 Ask me about — React, Tailwind CSS, MongoDB, or building with the Gemini API<br><br><br>
 
 
 ## 🌐 Socials:
